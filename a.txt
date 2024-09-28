@@ -1,6 +1,3 @@
-<<<<<<< HEAD
 enter
-=======
 allow
 
->>>>>>> 8bb0610 (adding file)
